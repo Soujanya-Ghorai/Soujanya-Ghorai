@@ -91,7 +91,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-<a href="">
+<!-- <a href="">
 <img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -109,7 +109,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <a href="">
 <img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
+</a> -->
 
 </div>
 
