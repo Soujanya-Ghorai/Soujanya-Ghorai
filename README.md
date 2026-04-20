@@ -8,7 +8,7 @@ style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px 
 
 <div align="center">
 
-<h1>👋 Hey, I'm Aman Raj!</h1>
+<h1>👋 Hey, I'm Soujanya Ghorai!</h1>
 <h3>AI-Focused Full Stack Developer | ML Enthusiast | Problem Solver</h3>
 
 <p>
@@ -19,7 +19,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-<a href="https://aman-0402.github.io/aman.ai/" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Explore_My_AI_Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a><br>
 <sub>✨ Live | AI Projects | Full Stack Systems | Real World Solutions</sub>
@@ -91,23 +91,23 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-raj-081905211">
+<a href="">
 <img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/Code_Like_Aman">
+<a href="">
 <img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="mailto:aman08.stars@gmail.com">
+<a href="">
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.instagram.com/epicure_wiz">
+<a href="">
 <img src="https://img.shields.io/badge/Instagram-epicure__wiz-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/aman08_stars">
+<a href="">
 <img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
