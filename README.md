@@ -1,85 +1,128 @@
-<div align="center">
-  <img src="https://drive.google.com/file/d/1ov49FKn5i_YyhQBDSlKCzzFHCNKI7S-k" width="100%" />
+<!-- HERO SECTION -->
+<div align="center" style="width:100%;">
+<img src="https://drive.google.com/uc?export=view&id=1ov49FKn5i_YyhQBDSlKCzzFHCNKI7S-k" 
+style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Aman Raj Banner" />
 </div>
 
+<br>
+
 <div align="center">
-  <h3>🚀 CSE AIML Student | Class Representative | Frontend Pro</h3>
-  <p>
-    Building intelligent systems and crafting pixel-perfect web experiences.
-  </p>
-  
-  <a href="[Your-Portfolio-Link]">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+
+<h1>👋 Hey, I'm Aman Raj!</h1>
+<h3>AI-Focused Full Stack Developer | ML Enthusiast | Problem Solver</h3>
+
+<p>
+I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data Science, and Full Stack Development to solve real-world problems 🚀
+</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://aman-0402.github.io/aman.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_AI_Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a><br>
+<sub>✨ Live | AI Projects | Full Stack Systems | Real World Solutions</sub>
+
 </div>
 
----
-
-### 🧠 Profile at a Glance
-
-- 🛡️ **Class Representative (CR)** for AIML-1 at Parul University.
-- 💻 **Frontend Specialist**: Expert in HTML5 & CSS3 (Check out my Flipkart & TCS clones!).
-- 📈 **Competitive Programmer**: Actively solving DSA on **LeetCode** and **Codeforces**.
-- 🤖 **AI Enthusiast**: Currently mastering Python and C++ for software & game development.
-- ✈️ **Aeromodelling**: Designing payload drones and RC planes (AIR BUZZ participant).
-- 🎸 **Creative Side**: Songwriter and Rock music fan.
-
----
-
-### ⚙️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### 📂 Featured Work
+## 🧠 AI & Developer Profile
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Flipkart Clone** | High-fidelity UI recreation with responsive design. | HTML5, CSS3 |
-| **TCS Header System** | Complex navigation and animation-heavy header. | HTML5, CSS3 |
-| **Payload Drone** | Technical design for "AIR BUZZ" stunt competition. | Aeromodelling |
-| **AI Academic Dashboard** | Smart system for predicting student performance. | Python, ML |
+- 🤖 AI/ML Engineer in the making with strong foundations in ML, DL & Data Science  
+- 🌱 Constant learner in Python, AI frameworks, and cloud computing  
+- 🔭 Building AI-driven systems, scalable architectures & intelligent automation  
+- 💡 Passionate about solving complex real-world problems using data & logic  
 
 ---
 
-### 📊 Github Stats
+## ⚙️ AI & Full Stack Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-Github-Username]&show_icons=true&theme=transparent" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-Github-Username]&theme=transparent" alt="Streak" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs,django,flask,mongodb,mysql,aws,git,docker" />
 </div>
 
 ---
 
-### 📬 Let's Connect!
+## 🛠️ What I Love To Build
+
+- 🧠 Intelligent systems that learn from data  
+- ⚡ Automation pipelines & backend systems  
+- 📊 Predictive analytics & decision engines  
+- 🌐 AI-powered scalable web applications  
+
+---
+
+## 🧪 AI & Data Science Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| Wine Quality Prediction | ML model predicting wine quality | Python, Sklearn |
+| Watermarking Attacks & Recovery | Image processing & security system | OpenCV, Python |
+| Statistics-Colab | Data analytics & ML notebooks | Pandas, NumPy |
+| AI Student Dashboard | Smart academic prediction system | MERN + ML |
+
+---
+
+## 💻 Full Stack & Web Projects
+
+| Project | Description |
+|----------|-------------|
+| Blood Donation App | Django-based full stack healthcare system |
+| EchoSpace Blog CMS | Role-based Blog management system with CRUD |
+| My Portfolio | Modern AI-focused personal website |
+| React Todo App | Clean & responsive React UI |
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning  
+- Deep Learning Architectures  
+- MLOps & Model Deployment  
+- Cloud-native AI Systems  
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
-  <a href="[Your-LinkedIn-URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/[Your-LeetCode-User]">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/aman-raj-081905211">
+<img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/Code_Like_Aman">
+<img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="mailto:aman08.stars@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/epicure_wiz">
+<img src="https://img.shields.io/badge/Instagram-epicure__wiz-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/aman08_stars">
+<img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
 </div>
 
 ---
 
+## 🎯 AI Vision
+
+> ⚡ *I don’t just write code — I engineer intelligent systems that learn, adapt, and create impact.*
+
+---
+
 <div align="center">
-  <p><i>"I don’t just write code — I engineer intelligent systems that learn and adapt."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=[Your-Username]&color=blueviolet" alt="Views" />
+
+### 🚀 Let’s build the future with AI 🚀
+
 </div>
